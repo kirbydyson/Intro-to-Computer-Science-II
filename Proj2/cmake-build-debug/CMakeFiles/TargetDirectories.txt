@@ -1,0 +1,3 @@
+C:/Users/kdyso/CLionProjects/Proj2/cmake-build-debug/CMakeFiles/Proj2.dir
+C:/Users/kdyso/CLionProjects/Proj2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kdyso/CLionProjects/Proj2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
